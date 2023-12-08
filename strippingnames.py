@@ -1,0 +1,5 @@
+name = "\t Petar Petrovic \nNjegos "
+print(name)
+print(name.lstrip())
+print(name.rstrip())
+print(name.strip())
